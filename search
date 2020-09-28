@@ -1,0 +1,3 @@
+{delete}
+{user} Search query on the Fandom Wiki for **"$1"**:
+https://wingsoffire.fandom.com/wiki/Special:Search?query=$1
