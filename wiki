@@ -1,0 +1,5 @@
+{delete}
+{user} Fandom Wiki article on $1:
+https://wingsoffire.fandom.com/wiki/$1
+
+``The page doesn't exist? Check for spelling mistakes, replace spaces by _ in your search, and if it still doesn't work use the "?search" command.``
