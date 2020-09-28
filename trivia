@@ -1,0 +1,15 @@
+{dm}
+__**List of Trivia commands:**__
+
+**For moderator use only:**
+?trivia-start - start Trivia game, ping participants
+?trivia-end - end Trivia game
+?q [Question number] [Question] - Submit a question to the participants
+
+**For common use:**
+?trivia - shows this message
+?a [answer] - Sends your answer to the mod for review. When you do so, it will not show in the channel, and only the mod will see it. Please use this format for answering, otherwise the mod would have to look everywhere at once. 
+
+***Starflight:*** Note that these commands are automatically deleted when they will be sent, so don't worry if it seems like your messages didn't send. They did, but the bot deleted them instantly and applies the command you asked it to-
+***Tsunami:*** SHUT UP STARFLIGHT WE KNOW
+***Sunny:*** Anyway, we hope you enjoy the Trivia game as much as we do! Have fun!
